@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: b84da0893ae91ce4681acd23692d3c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1299673172073514839
+    second: goatlogo_0
+  - first:
+      213: 1449416977133956861
+    second: goatlogo_1
+  - first:
+      213: -1334175685910998137
+    second: goatlogo_2
+  - first:
+      213: -7067341327146405395
+    second: goatlogo_3
+  - first:
+      213: 6376254035069951594
+    second: goatlogo_4
+  - first:
+      213: -2134537094840873716
+    second: goatlogo_5
+  - first:
+      213: 5511173259191944013
+    second: goatlogo_6
+  - first:
+      213: -1448617881327358658
+    second: goatlogo_7
+  - first:
+      213: 2459362055877139039
+    second: goatlogo_8
+  - first:
+      213: 8535662182719559310
+    second: goatlogo_9
+  - first:
+      213: -7501361037591586346
+    second: goatlogo_10
+  - first:
+      213: 294822854437313096
+    second: goatlogo_11
+  - first:
+      213: 7291333005847281645
+    second: goatlogo_12
+  - first:
+      213: 1196927828538382059
+    second: goatlogo_13
+  - first:
+      213: -4396609563853115353
+    second: goatlogo_14
+  - first:
+      213: 8961008443500531673
+    second: goatlogo_15
+  - first:
+      213: -7243223559092529106
+    second: goatlogo_16
+  - first:
+      213: 1464417507061220441
+    second: goatlogo_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goatlogo_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 312
+        width: 306
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f37ec222a6fde0800000000000000
+      internalID: -1299673172073514839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 602
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe6d75bf0d5d1410800000000000000
+      internalID: 1449416977133956861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 599
+        width: 23
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783df4d484e0c7de0800000000000000
+      internalID: -1334175685910998137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 607
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de13001e182cbed90800000000000000
+      internalID: -7067341327146405395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 594
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6edef513410d7850800000000000000
+      internalID: 6376254035069951594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 611
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8d1e42d99062e0800000000000000
+      internalID: -2134537094840873716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 594
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4384c931ee9b7c40800000000000000
+      internalID: 5511173259191944013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 602
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d243846b975ebe0800000000000000
+      internalID: -1448617881327358658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 593
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a91a272c8612220800000000000000
+      internalID: 2459362055877139039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 458
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e861cb30883c47670800000000000000
+      internalID: 8535662182719559310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 467
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d56651efc5e790800000000000000
+      internalID: -7501361037591586346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 454
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a1766f2db671400800000000000000
+      internalID: 294822854437313096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 453
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defbb98dcb4003560800000000000000
+      internalID: 7291333005847281645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 318
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65fc9b4875c9010800000000000000
+      internalID: 1196927828538382059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 314
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720337a55ea1cf2c0800000000000000
+      internalID: -4396609563853115353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 309
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df0020b3b5eb5c70800000000000000
+      internalID: 8961008443500531673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 327
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e289c8b9c86ea7b90800000000000000
+      internalID: -7243223559092529106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatlogo_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 330
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9544f3fb6f7a25410800000000000000
+      internalID: 1464417507061220441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goatlogo_0: -1299673172073514839
+      goatlogo_1: 1449416977133956861
+      goatlogo_10: -7501361037591586346
+      goatlogo_11: 294822854437313096
+      goatlogo_12: 7291333005847281645
+      goatlogo_13: 1196927828538382059
+      goatlogo_14: -4396609563853115353
+      goatlogo_15: 8961008443500531673
+      goatlogo_16: -7243223559092529106
+      goatlogo_17: 1464417507061220441
+      goatlogo_2: -1334175685910998137
+      goatlogo_3: -7067341327146405395
+      goatlogo_4: 6376254035069951594
+      goatlogo_5: -2134537094840873716
+      goatlogo_6: 5511173259191944013
+      goatlogo_7: -1448617881327358658
+      goatlogo_8: 2459362055877139039
+      goatlogo_9: 8535662182719559310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
