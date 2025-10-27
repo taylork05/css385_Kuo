@@ -23,16 +23,22 @@ public class UIHandler : MonoBehaviour
     private void Start()
     {
         _playerController = _player.GetComponent<PlayerController>();
+
+        _highScore = PlayerPrefs.GetInt("HighScore", 0);
+        _highScoreText.text = _highScore.ToString();
     }
 
     private void Update()
     {
         _scoreText.text = _playerController.getScore.ToString();
 
-        if(_playerController.getScore > _highScore)
+        if (_playerController.getScore > _highScore)
         {
             _highScore = _playerController.getScore;
             _highScoreText.text = _highScore.ToString();
+
+            PlayerPrefs.SetInt("HighScore", _highScore);
+            PlayerPrefs.Save();
         }
     }
 
