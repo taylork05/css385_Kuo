@@ -1,13 +1,17 @@
 Elevator Pitch: 
-Combat Critters is a charming auto-battler where adorable animals clash in strategic showdowns. Collect, combine, and evolve your critters to build powerful teams and  watch them battle for victory. With a set number of slots, random items and a shop you can reroll, every battle becomes a test of luck and strategy. It is a game that is easy to learn but hard to master, Combat Critters rewards creative thinking and clever team-building.
+
+Alternative Maze takes a twist on the classic maze game with new elements being introduced into each level. With the classic game mechanics for directions but it introduces keys, view changes and more. It is able to grow infinitely as each level is a new idea or concept behind it making it rewarding to those with creative thinking and patience.
 
 Game Synopsis: 
-As you win each round, improve your team to earn coins which in turn allow for a chance to roll for upgrades or better critters. Each battle gets progressively more difficult, encouraging players to think strategically, balance risk and reward, and adapt their lineup to overcome new challenges. Mastering when to spend, save, or reroll becomes key to surviving longer and building the ultimate team of critters.
+The game starts as a classic maze game with the introduction of keys used to unlock the exit. As you progress through the game the maze changes format, design and tools making each level completely different but familiar. The further the progression the stranger and difficult the maze becomes. Master the new tools and format in order to complete all the maps. 
 
 Objective: 
-The objective of this game is to win as many rounds as possible before being defeated 3 times.
+The objective of the game is to navigate through each maze, collect all the required keys, and unlock the exit to progress to the next level. 
 
 Mechanics Description: 
-The player controls a team of up to five critters and a bench of 3, that can be bought, upgraded, or sold for coins. After each round, players earn a set amount of coins, with bonus rewards granted for maintaining win streaks or for recovering from losses. Additional bonuses are earned through interest, rewarding players for saving coins in increments of ten. A shop system allows players to reroll for alternative or stronger critters. Items can be earned after a set amount of rounds. These items can buff the critter’s health, defense, attack, and critical chance. After each win the battle gets progressively more difficult, eventually they will be stuck at a set difficulty until they have found a way to get past the round. Once a set number of rounds have been won the player has won the game. 
+The player controls a character navigating through a maze using familiar directional movement to explore and find the correct path. Throughout each level, keys are scattered across the maze, and the player must locate and collect all of them to unlock the exit. Once every key is obtained, the exit door becomes accessible, allowing the player to progress to the next stage. After completing a level, the maze evolves in both design and concept, introducing new challenges, mechanics, and visual styles that keep gameplay fresh and engaging. With each new level, the player encounters different tools and twists such as color testing, fake walls, unique maze structures, or new abilities that require creative problem-solving to master. This constant evolution of mechanics and environments ensures that every stage feels distinct while maintaining the familiar goal of escaping the maze.
 
-Mockup is visible in the the pdf called Project Proposal.pdf which is just the pdf verison of this .md
+Note: Saving levels but since there is only one level, the save files are implemented but itâ€™s just kinda there. 
+
+
+Updated verison
